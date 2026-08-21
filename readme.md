@@ -5,7 +5,7 @@
 ## Grob-Planung
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was wäre ein geeignetes Projekt für diese LP1? Ein Quiz
+2. Was wäre ein geeignetes Projekt für diese LP1? Ein Quiz über das Sonnensystem. Man soll Fragen beantworten und das Programm soll dann sagen ob die antwort richtig ist oder falsch.
 
 ## 28.8.2026
 
