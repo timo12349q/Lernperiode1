@@ -15,8 +15,12 @@ Heute habe ich im Modul 319, bei Mission 3 weitergearbeitet. Danach habe ich mit
 
 - [ ] Ich möchte, falls ich noch weiterhin im Modul 319 im Rückstand bin, daran weiter arbeiten.
 - [ ] Ich möchte, mein Quiz über das Sonnensystem erweitern mit mehr Fragen.
-- [ ] 
 
+## 11.9.2026
 ✍️ Heute habe ich... (50-100 Wörter)
-
+Heute habe ich im Modul 431 die Mission 13 fertig gestellt. Ich habe mehr Fragen in mein Quiz eingefügt. Ich habe angefangen zu programmieren, dass das Programm am Ende sagt wie viele Fragen man richtig beantwortet hat.
+- [ ] Ich möchte, falls ich noch im Rückstand bin, im Modul 319 daran arbeiten.
+- [ ] Ich möchte mein Programm noch erweitern, also mehr Fragen hinzufügen.
+- [ ] Ich möchte mein Programm weiterführen und machen, dass das Programm sagt wie viele Fragen man richtig beantworte hat.
+- [ ] Ich möchte am Modul 431 weiter arbeiten.
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
