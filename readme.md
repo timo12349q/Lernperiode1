@@ -25,11 +25,11 @@ Heute habe ich im Modul 431 weiter gearbeitet. Ich habe bei meinem Quiz weitere 
 - [ ] Ich möchte am Modul 431 weiter arbeiten.
 
 ## HA
-- [ ] Programmieren das es auch zeigt wie viele Fragen man falsch beantwortet hat.
+- [ ] Mehr Fragen einfügen.
 ## 18.9.2026
 
 
-- [ ] Programm mehr Fragen einfügen.
+- [ ] Programmieren das es auch zeigt wie viele Fragen man falsch beantwortet hat.
 - [ ] Im Modul 319 falls ich noch im Rückstand bin diesen aufholen.
 
 
