@@ -122,5 +122,64 @@ else
 {
     Console.WriteLine("Falsche Antwort!");
 }
-Console.WriteLine("Sie haben das Quiz abgeschlossen.");
-Console.WriteLine("Sie haben " + richtig + " von 10 Fragen richtig.");
+Console.WriteLine("11. Welcher Planet ist der Erde am ähnlichsten?");
+string antwort11 = Console.ReadLine();
+string richtigeAntwort11 = "Venus";
+if (antwort11 == richtigeAntwort11)
+{
+    richtig++;
+    Console.WriteLine("Richtige Antwort");
+}
+else
+{
+    Console.WriteLine("Falsche Antwort!");
+}
+Console.WriteLine("12. Welcher Planet hat die kürzeste Umlaufzeit um die Sonne?");
+string antwort12 = Console.ReadLine();
+string richtigeAntwort12 = "Merkur";
+if (antwort12 == richtigeAntwort12)
+{
+    richtig++;
+    Console.WriteLine("Richtige Antwort");
+}
+else
+{
+    Console.WriteLine("Falsche Antwort!");
+}
+Console.WriteLine("13. Welcher Planet hat die längste Umlaufzeit um die Sonne?");
+string antwort13 = Console.ReadLine();
+string richtigeAntwort13 = "Neptun";
+if (antwort13 == richtigeAntwort13)
+{
+    richtig++;
+    Console.WriteLine("Richtige Antwort");
+}
+else
+{
+    Console.WriteLine("Falsche Antwort!");
+}
+Console.WriteLine("14. Welcher Planet hat hat die grössten Ringe?");
+string antwort14 = Console.ReadLine();
+string richtigeAntwort14 = "Saturn";
+if (antwort14 == richtigeAntwort14)
+{
+    richtig++;
+    Console.WriteLine("Richtige Antwort");
+}
+else
+{
+    Console.WriteLine("Falsche Antwort!");
+}
+Console.WriteLine("15. Wie viel Prozent der Erdoberfläche ist mit Wasser bedeckt?");
+int antwort15 = Convert.ToInt32(Console.ReadLine());
+int richtigeAntwort15 = 71;
+if (antwort15 == richtigeAntwort15)
+{
+    richtig++;
+    Console.WriteLine("Richtige Antwort");
+}
+else
+{
+    Console.WriteLine("Falsche Antwort!");
+}
+Console.WriteLine("Sie haben das Quiz abgeschlossen.");Console.WriteLine("Sie haben " + richtig + " von 15 Fragen richtig.");
