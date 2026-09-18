@@ -13,19 +13,20 @@
 Heute habe ich im Modul 319, bei Mission 3 weitergearbeitet. Danach habe ich mit meinem Projekt angefangen. Ich habe bis jetzt programmiert das man seinen Namen eingeben soll und dann 2 Fragen beantworten kann. Eine Frage ist eine ja, nein Frage und bei der zweiten muss man eine Zahl angeben.
 ## 6.9.2026
 Heute habe ich im Modul 431 die Mission 13 fertig gestellt. Ich habe mehr Fragen in mein Quiz eingefügt. Ich habe angefangen zu programmieren, dass das Programm am Ende sagt wie viele Fragen man richtig beantwortet hat
-- [ ] Ich möchte, falls ich noch weiterhin im Modul 319 im Rückstand bin, daran weiter arbeiten.
-- [ ] Ich möchte, mein Quiz über das Sonnensystem erweitern mit mehr Fragen.
+- [X] Ich möchte, falls ich noch weiterhin im Modul 319 im Rückstand bin, daran weiter arbeiten.
+- [X] Ich möchte, mein Quiz über das Sonnensystem erweitern mit mehr Fragen.
 
 ## 11.9.2026
 ✍️ Heute habe ich... (50-100 Wörter)
 Heute habe ich im Modul 431 weiter gearbeitet. Ich habe bei meinem Quiz weitere Fragen hinzugefügt. Ich habe programmiert, dass das Programm am Ende sagt wie viele Fragen man richtig bearbeitet hat.
-- [ ] Ich möchte, falls ich noch im Rückstand bin, im Modul 319 daran arbeiten.
-- [ ] Ich möchte mein Programm noch erweitern, also mehr Fragen hinzufügen.
-- [ ] Ich möchte mein Programm weiterführen und machen, dass das Programm sagt wie viele Fragen man richtig beantworte hat.
-- [ ] Ich möchte am Modul 431 weiter arbeiten.
+- [X] Ich möchte, falls ich noch im Rückstand bin, im Modul 319 daran arbeiten.
+- [X] Ich möchte mein Programm noch erweitern, also mehr Fragen hinzufügen.
+- [X] Ich möchte mein Programm weiterführen und machen, dass das Programm sagt wie viele Fragen man richtig beantworte hat.
+- [X] Ich möchte am Modul 431 weiter arbeiten.
 
 ## HA
-- [ ] Mehr Fragen einfügen.
+- [X] Mehr Fragen einfügen.
+Ich habe mehr Fragen hinzugefügt.
 ## 18.9.2026
 
 
