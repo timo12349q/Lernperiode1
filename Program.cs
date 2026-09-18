@@ -1,8 +1,10 @@
 ﻿Console.WriteLine("Wie heisst du?");
 string name = Console.ReadLine();
 Console.WriteLine("Willkommen " + name + " zum Quiz über unser Sonnensystem.");
+//Variabeln für die Antworten um zu zählen wie viele Fragen richtig und falsch beantwortet wurden.
 int richtig = 0;
 int falsch = 0;
+//Fragen werden gefragt und Antworten werden denn überprüft. Anschliessend wird ausgegeben ob die Antwort richtig oder falsch ist.
 Console.WriteLine("1. Wie viele Planeten gibt es in unserem Sonnensystem?");
 int answer1 = Convert.ToInt32(Console.ReadLine());
 int correctAnswer1 = 8;
@@ -199,5 +201,6 @@ else
     Console.WriteLine("Falsche Antwort!");
 }
 Console.WriteLine("Sie haben das Quiz abgeschlossen.");
+//Ausgabe der Ergebnisse.
 Console.WriteLine("Sie haben " + richtig + " Fragen richtig beantwortet.");
 Console.WriteLine("Sie haben " + falsch + " Fragen falsch beantwortet."); 
