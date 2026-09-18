@@ -36,9 +36,21 @@ Ich habe mehr Fragen hinzugefügt.
 ## 18.9.2026
 
 
-- [ ] Programmieren das es auch zeigt wie viele Fragen man falsch beantwortet hat.
-- [ ] Im Modul 319 falls ich noch im Rückstand bin diesen aufholen.
-
+- [X] Programmieren das es auch zeigt wie viele Fragen man falsch beantwortet hat.
+- [X] Im Modul 319 falls ich noch im Rückstand bin diesen aufholen.
+Ich habe heute programmiert das mein Programm zeigt wie viele Fragen man falsch beantwortet hat.
 
       
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
+
+## Reflexion
+
+Ich habe mit den Grundlagen für mein Sonnensystem-Quiz angefangen.
+Ich habe meinen Namen und die ersten Fragen programmiert.
+Ich habe weitere Fragen hinzugefügt.
+Ich habe programmiert, dass richtige Antworten gezählt werden.
+Ich habe programmiert, dass am Ende auch die falschen Antworten angezeigt werden.
+Ich habe mein Programm erweitert und verbessert.
+
+Am Anfang habe ich mit einem einfachen Quiz angefangen. Danach habe ich Schritt für Schritt neue Fragen hinzugefügt. Mir ist es aufgefallen, dass es einfach ist das Programm in kleine Teile aufzuteilen und diese nacheinander zu programmieren. Ich habe durch das Ausprobieren und Verbessern gelernt, wie mein Programm funktioniert. 
