@@ -1,5 +1,11 @@
 # Lern-Periode 1
 
+## Finales Projekt
+Es ist ein Quiz über unser Sonnensystem. Es werden nacheinander Fragen gestellt die man beantwortet. Es zeigt am Ende die Ergebnisse, also wie viele Fragen man richtig und wie viele man falsch beantwortet hat.
+<img width="474" height="422" alt="image" src="https://github.com/user-attachments/assets/39e620fc-8b91-4c3a-897d-fc35b9cd0645" />
+
+
+
 28.8 bis ?
 
 ## Grob-Planung
